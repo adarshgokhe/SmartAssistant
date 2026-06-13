@@ -4,3 +4,6 @@ Include/
 __pycache__/
 *.pyc
 *.log
+*.json
+*.csv
+*.png
