@@ -1,0 +1,6 @@
+pyautogui
+pyttsx3
+SpeechRecognition
+pandas
+keyboard
+pyperclip
